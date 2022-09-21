@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**
+ /**
   * reset_to_98 - Updates the value it points 
   * @n: pointer to n
   *
