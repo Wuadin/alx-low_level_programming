@@ -32,14 +32,8 @@ Write a function that prints n elements of an array of integers, followed by a n
 ## strcpy
 Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
-## 
+## Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+Write a function that convert a string to an integer. 
 
-##
-
-##
-
-##
-
-##
-
-##
+## Don't hate the hacker, hate the code
+Create a program that generates random valid passwords for the program 101-crackme.
