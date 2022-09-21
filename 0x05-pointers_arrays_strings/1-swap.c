@@ -1,6 +1,6 @@
-  #include "main.h"
+#include "main.h"
 
- /*
+/**
   * wap_int - Swaps the values of two integers
   *
   * @a: An integer to swap
@@ -16,4 +16,3 @@ void swap_int(int *a, int *b)
 	*a = *b;
 	*b = aux;
 }
-
