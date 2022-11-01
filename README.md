@@ -1,2 +1,3 @@
-                               	 Programmation et algorithmes de bas niveau
-Programming in c 
+Programmation et algorithmes de bas niveau
+
+Programming in c
